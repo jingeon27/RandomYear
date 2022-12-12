@@ -1,0 +1,19 @@
+{
+  "name": "randdaymake",
+  "version": "1.0.2",
+  "description": "Create random day YYYY-MM-DD",
+  "main": "bin/index.js",
+  "keywords": [
+    "random",
+    "create",
+    "year",
+    "month",
+    "day"
+  ],
+  "author": "jingeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jingeon27/RandomYear.git",
+    "email": "jingeon27@gmail.com"
+  }
+}
