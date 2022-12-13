@@ -1,6 +1,6 @@
 {
   "name": "randdaymake",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Create random day YYYY-MM-DD",
   "type": "module",
   "exports": {
