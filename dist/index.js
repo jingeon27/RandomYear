@@ -12,8 +12,8 @@ const YearRandom = (startDate, lastDate = startDate) => {
         ? 29
         : 28
       : 29
-    : 29;
+    : 28;
   const Date = Math.floor(Math.random() * DayProps) + 1;
   return `${count}-${Month}-${Date}`;
 };
-exports.YearRandom = YearRandom;
+export default YearRandom;
